@@ -5,6 +5,8 @@ run with either
 or
 `sbt compile thirteen`
 
+Also on scastie https://scastie.scala-lang.org/MywoibUzRSm0Sfb7jGjK8w
+
 ```
 sbt:13> thirteen/compile
 [info] Compiling 1 Scala source to /home/steven/Code/scala-crash/target/scala-2.13/classes ...
